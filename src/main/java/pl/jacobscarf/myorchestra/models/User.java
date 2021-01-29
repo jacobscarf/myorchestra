@@ -1,8 +1,6 @@
 package pl.jacobscarf.myorchestra.models;
 
 import lombok.Data;
-import lombok.Getter;
-import org.springframework.validation.annotation.Validated;
 
 import javax.persistence.*;
 import java.util.List;
